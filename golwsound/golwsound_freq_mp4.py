@@ -10,7 +10,7 @@ from matplotlib.animation import FFMpegWriter
 # choco install ffmpeg
 
 # run instructions:
-# python3 golwsound_freq.py --grid-size 50
+# python3 golwsound_freq_mp4.py --grid-size 50
 
 # Global variables for sound input
 CHUNK = 4096

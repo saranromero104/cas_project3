@@ -4,6 +4,9 @@ import pyaudio
 import struct
 import matplotlib.animation as animation
 
+# run instructions:
+# python3 golwsound_amp.py --grid-size 50
+
 # Global variables for sound input
 CHUNK = 1024
 FORMAT = pyaudio.paInt16
